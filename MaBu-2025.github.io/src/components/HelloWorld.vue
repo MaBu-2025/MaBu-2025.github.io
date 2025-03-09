@@ -39,6 +39,6 @@
 }
 .std {
   color:#888;
-  font-family: 'Papyrus';
+  font-family: 'Papyrus' ;
 }
 </style>
