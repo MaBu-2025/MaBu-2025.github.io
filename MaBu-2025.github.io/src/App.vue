@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 import SidePicture from './components/SidePicture.vue'
 import MyHeader from './components/Header.vue'
 </script>

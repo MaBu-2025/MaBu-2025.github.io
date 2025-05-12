@@ -1,6 +1,6 @@
 <script setup lang="ts">
 
-import MyHeader from './Header.vue'
+
 
 </script>
 
