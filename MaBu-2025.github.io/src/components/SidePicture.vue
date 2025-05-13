@@ -85,10 +85,12 @@
 <style scoped>
 
 .bckg{
-  background-color: #454411;
+  background-color: #738561;
   padding: 20px;
   margin: 0 0;
-  max-width: 1920px; /* Adjust the max-width as needed
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 4900px; /* Adjust the max-width as needed
   
   background-color: #454411;
   */
@@ -139,7 +141,7 @@
   }
 
   .surname {
-    color:#a7a376;
+    color:#d4d1b8;
     font-weight: 100;
     font-family: 'corinthia', italic;  
     font-size: 3.2em;
@@ -184,7 +186,7 @@
   }
 
   .surname {
-    color:#a7a376;
+    color:#d4d1b8;
     font-weight: 100;
     font-family: 'corinthia', italic;  
     font-size: 3.2em;

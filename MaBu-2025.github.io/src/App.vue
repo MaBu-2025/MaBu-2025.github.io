@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import SidePicture from './components/SidePicture.vue'
+import BasicInfoPanel from './components/BasicInfoPanel.vue'
+import Registration from './components/Registration.vue'
 import MyHeader from './components/Header.vue'
 </script>
 
@@ -7,6 +9,8 @@ import MyHeader from './components/Header.vue'
   <div >
     <MyHeader/>
     <SidePicture/>
+    <BasicInfoPanel/>
+    <Registration/>
     
   </div>
 </template>
