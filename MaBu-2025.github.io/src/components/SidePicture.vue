@@ -86,9 +86,10 @@
 
 .bckg{
   background-color: #738561;
+
   padding: 20px;
-  margin: 0 0;
-  border-radius: 10px;
+  margin: 5.55rem 0 0 0;
+  /*border-radius: 10px;*/
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   max-width: 4900px; /* Adjust the max-width as needed
   

@@ -22,7 +22,7 @@
   font-weight: 500;
   font-size: larger;
 
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 }
@@ -30,7 +30,7 @@
 .registration{
   color:white;
   font-family: "Cardo", serif;
-  font-weight: 800;
+ /* font-weight: 800;*/
   font-size: larger;
   margin-top:100px;
   padding: 20px 10px;

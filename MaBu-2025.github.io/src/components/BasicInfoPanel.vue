@@ -14,11 +14,12 @@
   
     </div>
     <div class="place row">
-      <div class="col-md-5 col-12">
+      <div class="col-lg-1 col-md-0  col-0"></div>
+      <div class="col-md-5 col-lg-4 col-12">
         <div class="placeHeader">
           MIESTO A ČAS SOBÁŠA
         </div>
-        <div class="invite">
+        <div class="placeinfo">
           Sobáš sa uskutoční v kostole Ducha Svätého v Sielnici o 15:00 hod.
 
         </div>
@@ -36,17 +37,18 @@
     </div>
 
     
-    <div class="col-md-5 col-12">
+    <div class="col-md-5 col-lg-4 col-12">
       <div class="placeHeader">
           MIESTO SVADOBNEJ HOSTINY
         </div>
-        <div class="invite">
+        <div class="placeinfo">
           Svadobná hostina sa uskutoční v Penzióne Jáger na Tureckom Vŕšku.
         </div>
         PENZIÓN JÁGER na Tureckom Vŕšku,<br>
         <a class="mapLink" href="https://maps.app.goo.gl/Ea4KAygggYfGKh4z7" target="_blank">Piešť I 162, <br>
         962 12 Detva</a>
       </div>
+      <div class="col-lg-1 col-md-0  col-0"></div>
     </div>
   </div>
   
@@ -76,13 +78,21 @@
   font-family: "Cardo", serif;  
   font-weight: 500;
   font-size: large;
-
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 }
 
 .invite {
+  padding-left:5%;
+  padding-right:5%;
+  padding-bottom: 20px;
+  font-family: "Cardo", serif;  
+  font-weight: 500;
+  font-size: large;
+
+}
+.placeinfo {
   padding-left:5%;
   padding-right:5%;
   padding-bottom: 20px;
@@ -98,10 +108,11 @@
 }
 
 .placeHeader {
+  height: 4em; 
   padding-top: 20px;
-  padding-bottom: 20px;
-    font-weight: 100;
-    font-family: "Cardo", italic; 
+  padding-bottom: 20px; 
+  font-weight: 100;
+  font-family: "Cardo", italic; 
   font-size: x-large;
   color: #738561;
 }
@@ -112,7 +123,7 @@
   font-weight: 500;
   font-size: larger;
 
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 }
@@ -120,6 +131,17 @@
 .invite {
   padding-left:5%;
   padding-right:5%;
+  padding-bottom: 20px;
+  font-family: "Cardo", serif;  
+  font-weight: 500;
+  font-size: larger;
+
+}
+
+.placeinfo {
+  padding-left:5%;
+  padding-right:5%;
+  min-height: 20%;
   padding-bottom: 20px;
   font-family: "Cardo", serif;  
   font-weight: 500;
@@ -138,6 +160,10 @@
   background: #738561;
 }
 .place{
+  margin: 0 auto;
+  width: 100%;
+  padding-left:5%;
+  padding-right:5%;
   background-color: #f0f0f0;
   padding-bottom: 50px;
   padding-top: 50px;
