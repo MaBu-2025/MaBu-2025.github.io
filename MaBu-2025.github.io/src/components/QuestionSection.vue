@@ -24,13 +24,13 @@ import Question from './Question.vue'
     
     <Question 
       question="Priniesť kvety alebo nie?" 
-      answer=""
+      answer="Ak by ste chceli priniesť kvety, je to od Vás veľmi milé, no úprimne, nikto sa nenahnevá, ak túto tradíciu tentoraz vynecháte. Kvety sú krásne, ale sú aj krehké, rýchlo vädnú a bolo by náročné im dať tú správnu opateru, akú by si zaslúžili. Ďakujeme, že to chápete, budeme radšej, ak si spolu vychutnáme pekné chvíle a nebudeme musieť riešiť vázy."
     />
     
     <Question 
       question="Ako sa obliecť?" 
-      answer="Ak by ste chceli priniesť kvety, je to od Vás veľmi milé, no úprimne, nikto sa nenahnevá, ak túto tradíciu tentoraz vynecháte. Kvety sú krásne, ale sú aj krehké, rýchlo vädnú a bolo by náročné im dať tú správnu opateru, akú by si zaslúžili. Ďakujeme, že to chápete, budeme radšej, ak si spolu vychutnáme pekné chvíle a nebudeme musieť riešiť vázy. "
-    />
+      answer=""
+      />
     
     <Question 
       question="Odvezie ma niekto domov zo svadby, ak si chcem užiť večer aj s trochou alkoholu?" 
