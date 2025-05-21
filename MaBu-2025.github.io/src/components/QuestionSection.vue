@@ -19,7 +19,7 @@ import Question from './Question.vue'
 
     <Question 
       question="Prečo nie sú na svadbu pozvaní všetci, ktorých poznáme a máme radi?" 
-      answer="???"
+      answer="Barbora a Martin by najradšej oslavovali so všetkými, na ktorých im záleží. No aby si tento deň mohli naplno užiť a venovať sa každému aspoň chvíľu, rozhodli sa pre užší okruh hostí. Veria, že ich rozhodnutie prijmete s pochopením."
     />
     
     <Question 
@@ -29,7 +29,7 @@ import Question from './Question.vue'
     
     <Question 
       question="Ako sa obliecť?" 
-      answer=""
+      answer="Dámy, najdôležitejšie je, aby ste sa cítili pohodlne a samy sebou. Či už si zvolíte šaty kvetované, krátke, dlhé, alebo aj čierne, naozaj sa nemusíte báť, že by to bolo nevhodné. Jediná prosba, bielu nechajte neveste. Páni predpokladáme, že vy sa stresovať nebudete vôbec, vy len zoberte oblek a tiež buďte sami sebou."
       />
     
     <Question 
